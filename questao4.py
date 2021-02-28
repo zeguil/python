@@ -1,3 +1,5 @@
+# Altere o programa anterior permitindo ao usuário informar as populações e as taxas de crescimento iniciais.
+
 pop_a = float(input("Digite a população do país A:  "))
 pop_b = float(input("Digite a população do país B:  "))
 tax_a = float(input("Digite a taxa de crescimento do país A: "))
