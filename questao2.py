@@ -1,3 +1,10 @@
+#Faça um programa que leia e valide as seguintes informações:
+#Nome: maior que 3 caracteres;
+#Idade: entre 16 e 110;
+#Salário: maior que zero;
+#Sexo: femenino ou masculino;
+#Estado Civil: 's', 'c', 'v', 'd';
+
 nome = input(" Digite seu nome: ")
 
 while len(nome) < 4:
